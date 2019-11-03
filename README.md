@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tailspin2283/Space%20Game%20-Web/_apis/build/status/kainicklas.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin2283/Space%20Game%20-Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
